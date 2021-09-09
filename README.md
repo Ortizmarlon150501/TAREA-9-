@@ -83,7 +83,37 @@ b. E_g
 ![image](https://user-images.githubusercontent.com/84412132/132618914-e17c6717-343f-48dc-829b-c3c89ae7fe19.png)
 
 
+15. Para cada circuito de la figura 23-75, determinar Z_T.
 
+![image](https://user-images.githubusercontent.com/84412132/132619014-13a07542-90eb-4ef7-83c7-8accefb2d1d6.png)
+
+![image](https://user-images.githubusercontent.com/84412132/132619062-11868690-17dc-48ab-9b15-2ccd83318c91.png)
+
+
+17. Un transformador tiene una especificación de voltaje primario de 7.2 kV, a=0.2 y una especificación de voltaje secundario de3 A. ¿Cuál es la especificación de kVA? 
+
+
+![image](https://user-images.githubusercontent.com/84412132/132619154-1fc48a61-fe84-49ef-b456-d7eb08f6aafd.png)
+
+
+23-5 Aplicaciones del transformador
+
+
+19. El transformador de la figura 23-25 tiene un primario de 7200 V y un secundario
+de 240 V con terminal central. Si la carga 1 consiste en doce lamparas
+de 100 W, la carga 2 es un calentador de 1500 W y la carga 3 es un horno de
+2400 W con Fp=1.0, determine.
+a.I_1
+ b.I_2  
+c.I_N  
+d.I_
+
+![image](https://user-images.githubusercontent.com/84412132/132619245-e6d338f3-551f-406a-a87b-ec32d70f377a.png)
+
+![image](https://user-images.githubusercontent.com/84412132/132619264-d7280076-069e-4988-921d-9f60df42eec3.png)
+
+
+21. Un amplificador con un equivalente de Thévenin de 10 V y R_Th de 25Ω maneja una bocina de 4Ωa través de un transformador con una relación de vueltas a=5. ¿Cuánta potencia es suministrada a la bocina? ¿Qué relación de vueltas produce 1 W?
 
 
 
