@@ -1,6 +1,3 @@
-# TAREA-9-
-
-
 
 # Informe Tarea 9
 
