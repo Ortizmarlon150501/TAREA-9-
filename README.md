@@ -4,15 +4,20 @@
 # Objetivos
 
 
-Objetivo General:
+# Objetivo General:
 
+• Comprender el concepto de sistemas trifasicos, su relacion con las fuentes de voltaje "ac" y su manera de generar y transmitir potencia electrica para comprender su aplicacion en aparatos que necesitan de una sola fase.
 
-• Analizar la teoría de ley ohm y tenerla en cuenta cuando se realicen los caculos de circuitos en paralelo y serie.
+• Estudiar toda la acción los transformadores sus diferentes tipos, la relación que existe entre corriente y voltaje y sus aplicaciones.
 
-Objetivos Especificos:
-• Entender que es lo que pasa en los circuitos paralelos y en serie, tomando en cuenta las relaciones que se dan con el voltaje, intensidad y la resistencia.
+# Objetivos Especificos:
 
-• Aprender a resolver ejercicios de circuitos los cuales se necesita comer sobre ley de ohm, la relaciones que se dan con el voltaje, intensidad y la resistencia en los circuitos paralelos y en serie.
+• Diferenciar entre sistemas trifasicos balanceados o desvalanceados, qué se puede analizar y que podemos deducir de cada uno de ellos
+
+• Identificar las ventajas economicas que traen los sistemas de potencia de tres fases a diferencia de sistemas de potencia de una fase
+
+• Identificar las diferencias y el correcto uso de transformadores.
+
 
 # Marco Teorico
 
