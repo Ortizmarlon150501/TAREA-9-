@@ -119,6 +119,47 @@ d.I_
 
 21. Un amplificador con un equivalente de Thévenin de 10 V y R_Th de 25Ω maneja una bocina de 4Ωa través de un transformador con una relación de vueltas a=5. ¿Cuánta potencia es suministrada a la bocina? ¿Qué relación de vueltas produce 1 W?
 
+![image](https://user-images.githubusercontent.com/84412132/132625025-7cd8afc5-602a-4780-8973-5ac2454b7353.png)
+
+
+
+23. Para la figura 23-30(a), a_2=2 y a_3=3, Ζ_2=20Ω∠50°, , Ζ_3=(12+j4)Ω ,E_g=120V∠0° . Encuentre cada corriente de carga y la corriente del generador.
+
+![image](https://user-images.githubusercontent.com/84412132/132625062-ea40f296-94b1-433a-868e-f2f7187971c9.png)
+
+
+23-6 Transformadores de núcleo de hierro prácticos
+
+
+25. Para la figura 23-77, E_g=120V∠0°.
+a. Dibuje el circuito equivalente.
+b. Determine I_g,I_L,y V_L.
+
+
+![image](https://user-images.githubusercontent.com/84412132/132625228-d7cd7940-a256-4461-9d14-a41dac2e94d9.png)
+
+
+27. Un transformador que entrega P_sal= 48 kW tiene una perdida en el núcleo de 280 W y una perdida en el cobre de 450 W. ¿Cuál es su eficiencia a esta
+carga?
+
+
+![image](https://user-images.githubusercontent.com/84412132/132625269-85485a4d-98ad-4699-85b9-e75ac5b6874e.png)
+
+
+23-9 Circuitos débilmente acoplados
+
+29. Para la figura 23-78,
+
+![image](https://user-images.githubusercontent.com/84412132/132625317-35dc0e82-5795-4718-8942-c6e0e349c922.png)
+
+
+31. Para un conjunto de bobinas acopladas, L_1=2H,M= 0.8 H y el coeficiente
+de acoplamiento es de 0.6. Determine L2.
+
+
+![image](https://user-images.githubusercontent.com/84412132/132625349-fe43285d-e939-4423-99e3-cb83cb93faba.png)
+
+
 33. Todo igual que en el problema 32, excepto que i1 =10 e^(-500t) A. Encuentre las ecuaciones de los voltajes del primario y el secundario. Calcúlelos a t =1 ms.
 
 ![image](https://user-images.githubusercontent.com/84587118/132620978-6c2d1fca-6a0d-4a40-9c3a-505f0f96bf02.png)
