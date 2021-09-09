@@ -17,6 +17,10 @@ Objetivos Especificos:
 # Marco Teorico
 
 
+ #    Capitulo 24
+ 
+ ![image](https://user-images.githubusercontent.com/84412132/132618229-966581f2-1442-46bb-af27-f407f8fa933f.png)
+
 
 # Explicacion y resolucion de ejercicios
 
