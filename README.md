@@ -16,6 +16,10 @@ Objetivos Especificos:
 
 # Marco Teorico
 
+# Capitulo 23
+
+![image](https://user-images.githubusercontent.com/84587118/132620924-e01972e8-48f5-4060-84ee-323d0ef0b148.png)
+
 
  #    Capitulo 24
  
@@ -114,6 +118,154 @@ d.I_
 
 
 21. Un amplificador con un equivalente de Thévenin de 10 V y R_Th de 25Ω maneja una bocina de 4Ωa través de un transformador con una relación de vueltas a=5. ¿Cuánta potencia es suministrada a la bocina? ¿Qué relación de vueltas produce 1 W?
+
+33. Todo igual que en el problema 32, excepto que i1 =10 e^(-500t) A. Encuentre las ecuaciones de los voltajes del primario y el secundario. Calcúlelos a t =1 ms.
+
+![image](https://user-images.githubusercontent.com/84587118/132620978-6c2d1fca-6a0d-4a40-9c3a-505f0f96bf02.png)
+
+
+35. Para la figura 23-80, determine LT.
+
+![image](https://user-images.githubusercontent.com/84587118/132621008-06057e51-ef6c-4e43-9c5f-29467c4e5605.png)
+
+
+![image](https://user-images.githubusercontent.com/84587118/132621026-01cd4367-700b-407e-b258-6c77507e6c8a.png)
+
+
+37. Los inductores de la figura 23-82 están mutuamente acoplados. ¿Cuál es su inductancia equivalente? Si f = 60 Hz, ¿cuál es la corriente en la fuente?
+
+![image](https://user-images.githubusercontent.com/84587118/132621058-b724b8a3-2f09-4ae6-b24c-0f355298cac1.png)
+
+
+![image](https://user-images.githubusercontent.com/84587118/132621068-2c2a476e-cdce-44b8-a987-636e3815ed35.png)
+
+
+39. Para el circuito de la figura 23-83, escriba las ecuaciones de malla
+
+![image](https://user-images.githubusercontent.com/84587118/132621101-fb64acb2-7018-4b3f-805f-523518e10a8d.png)
+
+
+![image](https://user-images.githubusercontent.com/84587118/132621119-4ea92021-32b8-4df5-a837-ed07a2cf9143.png)
+
+
+41. Escriba las ecuaciones de malla para el circuito de la figura 23-85. (Este es un problema desafiante.)
+
+![image](https://user-images.githubusercontent.com/84587118/132621150-b7ef45be-bc55-4705-9901-d4003fd9a61e.png)
+
+
+![image](https://user-images.githubusercontent.com/84587118/132621163-20a49dcc-1028-4f59-8669-21037f58d2e7.png)
+
+
+
+1. Mientras las cargas y voltajes de la figura 24-3(c) estén balanceados (sin tener en cuenta su valor real) las corrientes IA, IB, e IC sumarán cero. Para ilustrarlo, cambie la impedancia de carga de 12 Ω a 15 Ω∠30Ω y para EAA= 120 V∠0, haga lo siguiente: 
+a. Calcule las corrientes IA, IB e IC.
+ b. Sume las corrientes. ¿Se cumple IA + IB + IC =0?
+
+
+![image](https://user-images.githubusercontent.com/84587118/132621185-9e55bdb4-bbec-41a2-a906-c039c107ed62.png)
+
+
+![image](https://user-images.githubusercontent.com/84587118/132621194-8415e17c-1f39-44f3-8b69-e073028f7d6c.png)
+
+
+3. Dibuje el conjunto de formas de onda de las corrientes iA, iB e iC para el circuito de la figura 24-3(c). Suponga carga puramente resistiva y balanceada.
+
+5. Para las cargas de la figura 24-4, Vbc =208 V∠-75. 
+
+
+a. Determine los voltajes línea a línea Vab y Vca. 
+
+
+b. Determine los voltajes de fase. 
+
+C. Dibuje el diagrama fasorial
+
+
+![image](https://user-images.githubusercontent.com/84587118/132621260-784a966d-aa7f-42f0-b420-fa17af80ebda.png)
+
+
+![image](https://user-images.githubusercontent.com/84587118/132621268-6f372627-c138-4fb4-bb17-bbcca5e0ed10.png)
+
+
+
+
+
+![image](https://user-images.githubusercontent.com/84587118/132621226-79c59fbc-36ae-480b-aa82-e674d3b33929.png)
+
+7. Para la carga de la figura 24-47, Van 347 V∠15. Determine todas las corrientes de línea. Dibuje el diagrama faso
+
+![image](https://user-images.githubusercontent.com/84587118/132621313-bdee12df-a65f-44d4-9020-6c6750e46932.png)
+
+
+![image](https://user-images.githubusercontent.com/84587118/132621327-b67033e0-c836-4de4-910b-1c53f00bab1b.png)
+
+
+![image](https://user-images.githubusercontent.com/84587118/132621338-943478fd-f595-47d0-8b4c-1db4c496f349.png)
+
+9. Una carga Y balanceada tiene una impedancia de Zan =14.7 Ω∠16. Si Vcn =120 V∠160, determine todas las corrientes de línea
+
+![image](https://user-images.githubusercontent.com/84587118/132621361-721d053f-10f9-4628-a84a-13ebd6139d54.png)
+
+11. Para el circuito de la figura 24-48, Vab =480 V∠0. Encuentre la fase y las corrientes de línea
+
+![image](https://user-images.githubusercontent.com/84587118/132621486-0b179fd8-4de1-49da-bcef-95a3b2787808.png)
+
+
+13. Para el circuito de la figura 24-48, si Iab = 10 A∠-21, determine todos los voltajes de línea.
+
+![image](https://user-images.githubusercontent.com/84587118/132621512-23d82ca2-ff23-4a22-9110-cb4a98bad686.png)
+
+
+![image](https://user-images.githubusercontent.com/84587118/132621534-3396f25e-ecce-4a54-9afb-88cb301c418a.png)
+
+
+15. Una carga Y balanceada tiene una impedancia de fase de 24 Ω∠33 y un voltaje líneo a línea de 600 V. Tome Van como referencia y determine todas las corrientes de línea.
+
+![image](https://user-images.githubusercontent.com/84587118/132621568-7b767d4e-c68d-4fad-aa3a-01028cce3ee1.png)
+
+
+19. Una carga balanceada a 60 Hz tiene una corriente de Ibc =4.5 A∠-85. El voltaje de línea es de 240 volts y Vab se toma como referencia.
+
+
+ a. Encuentre las otras corrientes de fase. 
+ 
+ 
+b. Encuentre las corrientes de línea. 
+
+
+c. Encuentre la resistencia R y la capacitancia C de la carga.
+
+
+![image](https://user-images.githubusercontent.com/84587118/132621685-6aa547fb-a385-4d9e-b58f-8a149e3c004d.png)
+
+
+![image](https://user-images.githubusercontent.com/84587118/132621700-83f3491c-578f-49d0-b3f1-57e0875e21de.png)
+
+
+21. Para la figura 24-49, Van =120 V∠0. Dibuje el equivalente de una sola fase y: a. Encuentre el voltaje de fase EAN, magnitud y ángulo. b. Encuentre el voltaje de línea EAB, magnitud y ángulo.
+
+![image](https://user-images.githubusercontent.com/84587118/132621713-4ac031d9-e52c-4253-8e79-f04c10cb1825.png)
+
+
+![image](https://user-images.githubusercontent.com/84587118/132621731-db63cd47-4954-43fe-a4a9-76c79e47d2e1.png)
+
+
+23. Para la figura 24-48, EAN =120 V∠-10. Encuentre la corriente de línea con el método equivalente de una sola fase
+
+![image](https://user-images.githubusercontent.com/84587118/132621750-47d16e16-316c-44e3-9679-180ead70b4b8.png)
+
+
+![image](https://user-images.githubusercontent.com/84587118/132621760-f5f5fc18-c50b-464b-b9e6-cb12a122f887.png)
+
+
+
+
+
+
+
+
+
+
 
 
 
