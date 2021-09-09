@@ -304,16 +304,93 @@ c. Encuentre la resistencia R y la capacitancia C de la carga.
 ![image](https://user-images.githubusercontent.com/84587118/132621760-f5f5fc18-c50b-464b-b9e6-cb12a122f887.png)
 
 
+25. Para la figura 24-48, suponga que las líneas tienen una impedancia Zlínea de 0.15 Ω + j0.25 Ω y     EAN = 120 V∠0°. Convierta la carga Δ en Y y use el equivalente de una fase para encontrar las corrientes de línea.
+
+![image](https://user-images.githubusercontent.com/84585835/132742410-90910a9a-6dcb-4596-81f0-38aaeb2e3608.png)
+
+![image](https://user-images.githubusercontent.com/84585835/132742440-26f0dd6d-e220-40e6-aa55-16fbd3dbdbfa.png)
+
+27. Para el circuito de la figura 24-49, suponga que Zlínea = 0.15 Ω + j0.25 Ω y Vab = 600 V∠30°. Determine EAB.
+
+![image](https://user-images.githubusercontent.com/84585835/132742487-05ddfa5d-43c8-4fb3-b38c-318346565763.png)
+
+![image](https://user-images.githubusercontent.com/84585835/132742507-890e6f88-4c99-4dc2-bdcf-910243016ac2.png)
+
+29. Los mismos datos que el problema 28 excepto que el voltaje de fase en la carga Δ es Va’b’ = 480 V∠30°. Encuentre el voltaje del generador EAB, magnitud y ángulo.
+
+![image](https://user-images.githubusercontent.com/84585835/132742601-1b888792-2a6a-4bd4-a162-ea728fa9cf06.png)
+
+24-5 Potencia en sistemas balanceados
+
+33. Repita el problema 32 para la carga balanceada de la figura 24-51, dado EAN = 120 V
+
+![image](https://user-images.githubusercontent.com/84585835/132742647-fe1a38c1-3fc9-47ef-88f9-36e0aba692fc.png)
+
+![image](https://user-images.githubusercontent.com/84585835/132742685-1059a372-1894-4521-998a-4c1a843b5418.png)
+
+35. Para la figura 24-47, calcule las potencias real, reactiva y aparente con las fórmulas para PT, QT, y ST de la tabla 24-2. (Use VL = 207.8 V en lugar del valor nominal de 208 V.) Compare sus resultados con los del problema 34.
+
+![image](https://user-images.githubusercontent.com/84585835/132742716-5846213d-3f35-4fd0-a3c2-d5e1ba7c2a71.png)
+
+![image](https://user-images.githubusercontent.com/84585835/132742755-a49b3db6-c080-4a51-a752-1283ff1480c1.png)
+
+37. Para la figura 24-48, EAB = 208 V. Calcule las potencias real, reactiva y aparente con las fórmulas para PT, QT, y ST de la tabla 24-2. Compare sus resultados con los del problema 36.
+
+![image](https://user-images.githubusercontent.com/84585835/132743059-c073f67f-a1f8-4fae-9625-d45e2b153933.png)
+
+![image](https://user-images.githubusercontent.com/84585835/132743161-8a116964-9777-4636-9ac3-0fbdee6e8edc.png)
+
+39. Para la figura 24-53, si Vab = 600 V, determine la potencia total, la potencia reactiva total, la potencia aparente total y el factor de potencia.
+
+![image](https://user-images.githubusercontent.com/84585835/132743229-e9c3424d-dab6-45b5-95d6-380daa750e50.png)
+
+![image](https://user-images.githubusercontent.com/84585835/132743280-606a5591-09ff-49de-9dfb-229d4d5ad741.png)
+
+41. Para la figura 24-19, si Vab = 480 V, determine la potencia total, la potencia reactiva total, la potencia aparente total y el factor de potencia.
+
+![image](https://user-images.githubusercontent.com/84585835/132743311-af89ef99-f23c-408c-ad72-69ed8705e03d.png)
+
+![image](https://user-images.githubusercontent.com/84585835/132743340-bd39ef71-ec06-4282-89c0-2dcd587164ea.png)
+
+43. Vab = 208 V para una carga balanceada Y, PT = 1200 W, y QT = 750 VAR/(ind). Seleccione Van como referencia y determine Ia. (Use el triángulo de potencia)
+
+![image](https://user-images.githubusercontent.com/84585835/132743414-769fa14d-f0f8-4de3-929d-a1feca5475fb.png)
+
+45. Los capacitores de la figura 24-54 están conectados en Y y cada uno tiene el valor de C = 120 μF. Calcule el factor de potencia resultante. La frecuencia es de 60 Hz.
+
+![image](https://user-images.githubusercontent.com/84585835/132743453-83412274-7646-4fab-896f-0a58685073d0.png)
+
+![image](https://user-images.githubusercontent.com/84585835/132743477-e4200987-f641-48fd-8a2b-327fc7038d56.png)
+
+47. Para la figura 24-47, el voltaje de fase del generador es de 120 volts. 
+
+a. Dibuje tres wattímetros correctamente en el circuito. 
+
+b. Calcule la lectura de cada uno. 
+
+c. Sume las lecturas y compárelas con el resultado de 2304 W que se obtuvo en el problema 34
+
+![image](https://user-images.githubusercontent.com/84585835/132743581-382a933d-b2d4-4521-aa87-3ccd3e58d737.png)
+
+![image](https://user-images.githubusercontent.com/84585835/132743615-b1e12ef0-3604-478a-88cb-efe154aeb20a.png)
+
+49. Para el circuito de la figura 24-56, Vab = 208 V∠30°.
 
 
+ a. Determine la magnitud y ángulo de las corrientes.
+ 
+ 
+ b. Determine la potencia por fase y la potencia total, PT. 
+ 
+ 
+c. Calcule las lecturas de cada wattímetro. 
 
 
+d. Sume las lecturas de los medidores y compare los resultados para PT de (b)
 
+![image](https://user-images.githubusercontent.com/84585835/132743652-b5a2ec00-1631-4ae3-9537-47eed6151338.png)
 
-
-
-
-
+![image](https://user-images.githubusercontent.com/84585835/132743828-263ac634-b903-4e30-bfc1-9e2e1cc9cbf4.png)
 
 
 # Video
@@ -322,9 +399,11 @@ https://youtu.be/TcKoUCH9iCI
 
 # Conclusiones
 
-• En los circuitos paralelos el voltaje se mantiene contaste en cambio la intensidad se divide y esto le diferencia de los circuitos en serie porque en cambio con estos circuitos pasa que el voltaje se divide y la intensidad se divide.
+• El analisis de un circuito "ac" puede llegar a una complejidad en el analisis de los metodos matematicos necesarios para resolver un ejercicio
 
-• Dentro de la resolución existen vario caminos para resolver circuitos y ninguno es más fácil si debemos entender que cada uno tienes un funcionalidad y esto dependiendo el circuito,debemos identificar cual es el mas optimo dependiendo del circuito que nos planten.
+• Con todos los aprendizajes adquiridos se pudo realizar los ejercicios planteados en los capítulos 23 y 24 del texto.
+
+• Se puedo notar las diferencias entre los distintos tipos de transformadores y sus aplicaciones.
 
 # Bibliografia 
 
