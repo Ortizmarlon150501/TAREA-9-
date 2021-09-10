@@ -395,7 +395,7 @@ d. Sume las lecturas de los medidores y compare los resultados para PT de (b)
 
 # Video
 
-https://youtu.be/TcKoUCH9iCI
+https://youtu.be/PJmkbGAhwq8
 
 # Conclusiones
 
